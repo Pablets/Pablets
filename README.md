@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablets
 <!--
 **Pablets/Pablets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
