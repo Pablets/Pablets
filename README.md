@@ -1,3 +1,9 @@
+<div style=
+"background-color: rgba(0,0,0,0.5);
+margin:-32px;
+padding:32px;
+"
+>
 ### Hi there 👋
 
 I'm Pablo Godoy, a full stack developer focused on front-end development.
@@ -17,3 +23,4 @@ A simple graphic representation of my growth in the technologies that I use over
 <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablets'/>
 
 <!-- **Pablets/Pablets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+</div>
