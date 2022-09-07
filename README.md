@@ -5,8 +5,6 @@ I'm Pablo Godoy, a full stack developer focused on front-end development.
 I'm currently improving my testing skills with Jest to improve my stack.
 I like to learn about what I do in detail and I like to do it constantly.
 
-🔎 I'm looking to get a job where I can expand my knowledge and work with people who love to keep learning.  
-
 📫 Feel free to contact me: godoypablom@gmail.com  
 
 💾 Portfolio: https://www.p-godoy.com/  
