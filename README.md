@@ -19,10 +19,6 @@ I love attending online developer meetings and seeing passionate people inspirin
 
 📫 Feel free to contact me: godoypablom@gmail.com  
 
-💬 LinkedIn: https://www.linkedin.com/in/pablo-godoy/  
-
-A simple graphic representation of my growth in the technologies that I use over time.  
-
-<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pablets'/>
+💬 LinkedIn: https://www.linkedin.com/in/pablo-godoy/ 
 
 <!-- **Pablets/Pablets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
