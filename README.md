@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Pablo Godoy, nice to meet you.
+### Hi there! 👋 I'm Pablo Godoy, a Full Stack developer living in Córdoba, Argentina.
 
 About me:
 
